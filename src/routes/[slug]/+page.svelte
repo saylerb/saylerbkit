@@ -3,7 +3,6 @@
 	// import Comments from '../../components/Comments.svelte';
 
 	import 'prism-themes/themes/prism-shades-of-purple.min.css';
-	import Newsletter from '../../components/Newsletter.svelte';
 	import Reactions from '../../components/Reactions.svelte';
 	import LatestPosts from '../../components/LatestPosts.svelte';
 	import { page } from '$app/stores';
@@ -127,7 +126,6 @@
 		<!-- <Comments ghMetadata={json.ghMetadata} /> -->
 	</div>
 
-	<Newsletter />
 	<LatestPosts items={data.list} />
 </div>
 
