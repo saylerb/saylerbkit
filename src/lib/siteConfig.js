@@ -1,5 +1,6 @@
 export const SITE_URL = 'https://saylerbkit.netlify.app';
 export const APPROVED_POSTERS_GH_USERNAME = ['saylerb'];
+export const DEFAULT_AUTHOR_NAME= "saylerb"
 export const GH_USER_REPO = 'saylerb/saylerbkit'; // used for pulling github issues and offering comments
 export const SITE_TITLE = 'saylerbkit';
 export const SITE_DESCRIPTION = "saylerb's default SvelteKit + Tailwind starter";
