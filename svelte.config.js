@@ -47,7 +47,6 @@ const config = {
 	kit: {
 		adapter: adapter({
 			split: false,
-
 			// nov 2022
 			// if true, will create a Netlify Edge Function rather
 			// than using standard Node-based functions. however, also uses esbuild, which as of nov 2022 has a bug on netlify
