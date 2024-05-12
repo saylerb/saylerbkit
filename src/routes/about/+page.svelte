@@ -16,6 +16,6 @@
          alt="self-portrait" class="w-60 h-80 border-gray-300 shadow-md mx-auto">
     <p class="mb-4 text-gray-600 dark:text-gray-400">
         I'm Brian Sayler. I'm a software developer based in Denver, Colorado.
-        This is place where I practice my craft and share thoughts. Thanks for stopping by.
+        This is a place where I practice my craft and share thoughts. Thanks for stopping by.
     </p>
 </section>
