@@ -149,7 +149,7 @@
 		--gap: clamp(1rem, 6vw, 3rem);
 		--full: minmax(var(--gap), 1fr);
 		/* --content: min(65ch, 100% - var(--gap) * 2); */
-		--content: 65ch;
+		--content: 80ch;
 		--popout: minmax(0, 2rem);
 		--feature: minmax(0, 5rem);
 
