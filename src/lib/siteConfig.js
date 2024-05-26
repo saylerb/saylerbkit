@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://saylerbkit.netlify.app';
+export const SITE_URL = 'https://saylerb.com';
 export const APPROVED_POSTERS_GH_USERNAME = ['saylerb'];
 export const DEFAULT_AUTHOR_NAME= "saylerb"
 export const GH_USER_REPO = 'saylerb/saylerbkit'; // used for pulling github issues and offering comments
